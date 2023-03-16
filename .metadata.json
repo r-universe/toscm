@@ -1,0 +1,10 @@
+[
+  {
+    "package": "toscmask",
+    "oncran": true
+  },
+  {
+    "package": "toscutil",
+    "oncran": true
+  }
+]
