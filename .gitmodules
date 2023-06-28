@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "toscmask"]
 	path = toscmask
 	url = https://github.com/toscm/toscmask
-	shallow = true
-	registered = true
 [submodule "toscutil"]
 	path = toscutil
 	url = https://github.com/toscm/toscutil
-	shallow = true
-	registered = true
